@@ -3,10 +3,10 @@
 <h3 align="center">Programmer from Belarus 🇧🇾</h3>
 
 * 🌿 I'm currently learning C#, Java, web
-* 💻 Working with WPF rn
+* 💻 Working with WPF
 * 📬 How to contact me martinlyutik@yandex.by
 
-<h4 align="center">Technologies:
+<h5 align="center">Technologies:
 
 <br>![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -20,16 +20,16 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-</h4>
+</h5>
 
 <h5 align="center">Stats:
 
-<br>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=martinlyutik)](https://git.io/streak-stats)
+<br>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=martinlyutik&theme=tokyonight&show_icons=true&hide_border=true&date_format=j/n/Y)](https://git.io/streak-stats)
 
 </h5>
 
 <h5 align="center">Mostly used languages:
 
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinlyutik)](https://github.com/anuraghazra/github-readme-stats)
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinlyutik&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </h5>
