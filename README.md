@@ -4,6 +4,7 @@
 
 * 🌿 I'm currently learning C#, Java, web
 * 💻 Working with WPF rn
+* 📬 How to contact me martinlyutik@yandex.by
 
 <h4 align="center">Technologies:
 
