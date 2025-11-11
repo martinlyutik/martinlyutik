@@ -22,7 +22,7 @@
 
 </h5>
 
-<h5 align="center">Stats:
+<!-- <h5 align="center">Stats: -->
 
 <!-- <br>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=martinlyutik&theme=tokyonight&show_icons=true&hide_border=true&date_format=j/n/Y)](https://git.io/streak-stats) -->
 
