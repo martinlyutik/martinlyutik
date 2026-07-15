@@ -14,10 +14,10 @@
 
 <!-- <br>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=martinlyutik&theme=tokyonight&show_icons=true&hide_border=true&date_format=j/n/Y)](https://git.io/streak-stats) -->
 
-</h5>
+<!-- </h5>
 
 <h5 align="center">Mostly used languages:
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinlyutik&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</h5>
+</h5> -->
